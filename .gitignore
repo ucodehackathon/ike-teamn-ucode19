@@ -1,0 +1,5 @@
+bucket
+ucode_app/android/
+*.pyc
+*.csv
+.vscode
